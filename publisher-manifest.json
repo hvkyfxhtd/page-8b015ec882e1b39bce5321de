@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ade326e87d1d40e1ef413f84",
+  "owner": "hvkyfxhtd",
+  "repo": "page-8b015ec882e1b39bce5321de",
+  "title": "贰叁叁雲",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8b015ec882e1b39bce5321de",
+      "a": "贰叁叁雲",
+      "b": "稳定全球clash加速器",
+      "entity": "贰叁叁雲",
+      "brand": "贰叁叁雲",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6e829d26ecbe8eed792860492d8b89051a0e1fea742a316e2c67ab971d4703e4",
+      "content": {
+        "primary_entity": "贰叁叁雲",
+        "keyword1": "贰叁叁雲",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择合适客户端：手机端、桌面端与路由器分别对应不同导入方式。",
+          "AI_CLIENTS_TITLE": "设备与客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐与客户端，把订阅配置进设备即可开始使用。",
+          "AI_CLOSING_TITLE": "贰叁叁雲订阅配置",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，覆盖 3 台至 20 台设备同时在线，月度流量从 100GB 到 1000GB 可选。旗舰版搭载 IPLC 专线节点，适合游戏与流媒体场景；团队版支持企业定制路由与专属客户经理。按客户端导入订阅后即可完成配置。",
+          "AI_FEATURES_INTRO": "围绕设备数量、流量需求与使用周期选择套餐，能匹配日常上网与团队协作场景。",
+          "AI_FEATURES_TITLE": "套餐与设备适配要点",
+          "AI_FEATURE_TEXT_1": "基础版含 100GB 流量，支持 3 台设备同时在线，适合手机与笔记本少量设备使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版含 300GB 流量与 5 台设备，IPLC 专线对延迟敏感的游戏场景更友好。",
+          "AI_FEATURE_TEXT_3": "团队版含 1000GB 流量与 20 台设备，可选企业定制路由，便于多人协同。",
+          "AI_FEATURE_TITLE_1": "按设备数量选档",
+          "AI_FEATURE_TITLE_2": "按流量需求选档",
+          "AI_FEATURE_TITLE_3": "按周期付费更省",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到订阅配置的过程，设备端按各自客户端文档操作。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "贰叁叁雲提供基础版、旗舰版与团队版三档套餐，按设备数量与流量需求区分，覆盖手机、电脑与路由器等常见客户端。选定档位后导入订阅链接即可在设备上使用，年付方案相比月付可节省一定费用。",
+          "AI_HERO_SUBTITLE": "多设备多档位加速方案",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "流量从 100GB 到 1000GB 可选",
+          "AI_HIGHLIGHT_3": "旗舰版 IPLC 专线游戏优化",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年。按设备数量与月流量需求对比后选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据同时在线的设备数量与每月大致流量，确定基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "查看所选用设备端客户端对系统版本与订阅链接格式的适配要求。",
+          "AI_STEP_TEXT_3": "按对应客户端文档导入订阅，完成节点选择与连接配置。",
+          "AI_STEP_TITLE_1": "选择套餐档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "贰叁叁雲多设备加速",
+          "AI_FAQ_ANSWER_1": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。可以根据日常使用设备数量选择相应版本。",
+          "AI_FAQ_ANSWER_2": "可以在客户端中导入贰叁叁雲提供的订阅链接，客户端会定期更新节点信息，无需手动修改。",
+          "AI_FAQ_ANSWER_3": "基础版每月100GB，旗舰版每月300GB，团队版每月1000GB。轻度浏览选择基础版即可，多设备或高清流媒体建议旗舰版以上。",
+          "AI_FAQ_ANSWER_4": "年付比月付更划算，例如基础版按年付仅需150元，旗舰版按年付仅需350元，适合长期使用的用户。",
+          "AI_FAQ_ANSWER_5": "贰叁叁雲支持全节点原生流媒体解锁，旗舰版还针对游戏加速提供IPLC专线优化，具体表现取决于本地网络环境。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "贰叁叁雲套餐最多支持多少台设备？",
+          "AI_FAQ_QUESTION_2": "如何将订阅链接导入客户端？",
+          "AI_FAQ_QUESTION_3": "不同套餐的每月流量分别是多少？",
+          "AI_FAQ_QUESTION_4": "按年付是否更划算？",
+          "AI_FAQ_QUESTION_5": "流媒体和游戏加速效果如何？",
+          "AI_FAQ_TITLE": "套餐与使用常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "wyab22.cn",
+    "host": "wyab22.cn"
+  },
+  "file_hashes": {
+    "index.html": "6b109070894b58d2d450d8bcc92c97fbb16023cd152f676dc558fa7dd0cb5735",
+    "sitemap.xml": "bf1cfdf1058d03eeafb398ef7d2c9b17db2dc7664c99bd7b2a9411d9fa9be5a2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9051842ed38033b8040b1e5a378795d6d45c273e3d34ea47360f3ccab7f859a2",
+    "robots.txt": "5db0f7191f63502a1cd53fa77fe342cc3e8d2a6e4c7d5b3ce77d9a54b4efb7d3",
+    "b2cf035f3615670a89a068e4643ca28a.txt": "01febe2925885e8c478e415659ed56f8586a1e9263e80717d8412b05094564c1"
+  },
+  "revision": "3dbdc1bc53a4e37abe42af9b2a772d063244fd25ce6125b723067ebfe4a2e24a"
+}
